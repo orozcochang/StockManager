@@ -1,6 +1,6 @@
 # Stock Manager Desktop Application  
 This application was created using Python and its tkinter library along with the matplotlib library to generate charts to display historical data for stocks.
-Historical reports can be downloaded from Yahoo Finance as CSV files and then imported and analyzied by the program to then output an easy to read summary of the stock's movement.  
+Historical reports can be downloaded from Yahoo Finance as CSV files and then imported and analyzied by the program to then output an easy to read summary of the stock's movement. If you are using an IDE like VS Code, then a vritual environment is required and matplotlib needs to be installed for the code to run properly. The other libraries used are ones that already come with Python.    
 ### The basic interface  
 Here we can see the fields to add information for a new stock and a button to add it to the list and an option to delete the highlighted stock from the list on the left.
 ![main](https://user-images.githubusercontent.com/100933440/213666928-cb6cb1bc-5904-4078-8316-465d955e8cb6.PNG)
